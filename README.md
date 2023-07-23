@@ -9,3 +9,5 @@ This repository contains a small tensorflow introduction. It has the following m
 6. Reinforcement learning basics
 
 This is just a repo with the stuff I am learning about tensorflow.
+
+All of this is learnt from the youtube course : https://www.youtube.com/watch?v=tPYj3fFJGjk
